@@ -1,0 +1,17 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  height: 50vh;
+  width: 25vw;
+}
+.heading {
+  font-weight: bold;
+  font-size: 20px;
+  font-family: 'roboto';
+  color: '#6d396b';
+  margin: 15px;
+}

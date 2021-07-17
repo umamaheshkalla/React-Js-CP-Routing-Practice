@@ -1,0 +1,36 @@
+.header-block {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 20px;
+}
+.logo-name-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.logo {
+  height: 30px;
+  margin: 6px;
+}
+.logo-name {
+  font-weight: bold;
+  color: '#12022f';
+  font-family: 'roboto';
+  font-size: 16px;
+}
+.blogs {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  list-style-type: none;
+}
+.nav-links {
+  font-family: 'roboto';
+  text-decoration: none;
+  margin-left: 8px;
+  font-weight: 'bold';
+  cursor: pointer;
+  font-weight: bold;
+  color: '#12022f';
+}
